@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "144817436616",
+    "firebase_url": "https://todo-study-jj.firebaseio.com",
+    "project_id": "todo-study-jj",
+    "storage_bucket": "todo-study-jj.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:144817436616:android:9f6014a88e8b377f4832fd",
+        "android_client_info": {
+          "package_name": "com.limateixeira.todosstudy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "144817436616-9ipgt1vivnkkqvogdjfp9f4j7qlloki3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.limateixeira.todosstudy",
+            "certificate_hash": "9068067153fa2011b0fd56933f86a6da42b0cf29"
+          }
+        },
+        {
+          "client_id": "144817436616-ush7e9jlivvcmme8gesien4api8lvfpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcjAohuO3PSDOuaTbxiNZMhF0t5u8CBL0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "144817436616-ush7e9jlivvcmme8gesien4api8lvfpg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
