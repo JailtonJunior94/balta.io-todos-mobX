@@ -7,7 +7,6 @@ Curso de criação de um App Mobile do Todo App utilizando Flutter, MobX e Fireb
 - Firebase
 - MobX
 
-
 ## Balta.io Develop your career
 [Curso - Todo App: Mobile com Flutter, MobX e Firebase](https://app.balta.io/courses/7198)
 
